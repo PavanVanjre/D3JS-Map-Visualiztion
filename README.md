@@ -31,9 +31,9 @@
 
 ## **Example Outputs**
 1. US map with state capital locations visualized.
-   - **Screenshot**: `Screenshot 2023-11-01 at 7.52.01 PM.png`
+
 2. US map with state population visualized (colored states based on population density).
-   - **Screenshot**: `Screenshot 2023-11-01 at 7.52.11 PM.png`
+
 ![Output](output.png)
 
 ---
